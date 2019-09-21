@@ -1,4 +1,4 @@
-# Teams
+# Tutorials
 
 ![npm license](https://img.shields.io/npm/l/@enso-ui/tutorials.svg) 
 ![npm download](https://img.shields.io/npm/dm/@enso-ui/tutorials.svg) 
