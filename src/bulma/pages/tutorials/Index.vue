@@ -1,9 +1,9 @@
 <template>
     <enso-table class="box is-paddingless raises-on-hover"
         id="tutorials">
-        <template v-slot:placement="{ row }">
+        <template v-slot:placement="{ column, row }">
             <span class="tag is-table-tag is-info">
-                {{ row.placement }}
+                {{ column.enum._get(row.placement) }}
             </span>
         </template>
     </enso-table>
