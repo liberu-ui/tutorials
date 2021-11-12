@@ -24,6 +24,7 @@
     "@enso-ui/forms": "^3.0",
     "@enso-ui/tables": "^3.0",
     "@enso-ui/ui": "^5.0",
+    "driver.js": "^0.9.8",
     "vue": "^3.0"
   },
   "devDependencies": {
