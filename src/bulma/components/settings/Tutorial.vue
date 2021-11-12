@@ -1,6 +1,6 @@
 <template>
     <core-tutorial>
-        <template v-slot:default="{ itemEvents }">
+        <template #:default="{ itemEvents }">
             <div class="level is-mobile">
                 <div class="level-left">
                     <div class="level-item">
