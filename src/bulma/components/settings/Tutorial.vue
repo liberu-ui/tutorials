@@ -23,6 +23,7 @@
 </template>
 
 <script>
+import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faQuestion } from '@fortawesome/free-solid-svg-icons';
 import CoreTutorial from '../../../core/components/settings/Tutorial.vue';
@@ -32,7 +33,7 @@ library.add(faQuestion);
 export default {
     name: 'Tutorial',
 
-    components: { CoreTutorial },
+    components: { CoreTutorial, Fa },
 
     inject: ['i18n'],
 };
