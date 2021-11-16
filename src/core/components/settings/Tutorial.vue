@@ -59,7 +59,7 @@ export default {
     },
 
     render() {
-        return this.$scopedSlots.default({
+        return this.$slots.default({
             itemEvents: {
                 click: this.fetch,
             },
