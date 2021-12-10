@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/tutorials",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Basic tutorials package",
   "main": "src/bulma/pages/tutorials/Index.vue",
   "scripts": {
@@ -36,9 +36,8 @@
     "@vue/eslint-config-airbnb": "^5.0.0",
     "autoprefixer": "^9.6.1",
     "babel-eslint": "^10.0.1",
-    "eslint-plugin-vue": "^8.0.3",
+    "eslint-plugin-vue": "^8.0.0",
     "eslint": "^7.0.0",
-    "eslint-import-resolver-alias": "^1.1.2",
-    "eslint-plugin-vue": "^8.0.0"
+    "eslint-import-resolver-alias": "^1.1.2"
   }
 }
