@@ -25,10 +25,12 @@
     "@enso-ui/tables": "^3.0",
     "@enso-ui/ui": "^5.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
-    "@fortawesome/free-brands-svg-icons": "^5.2.0",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
     "driver.js": "^0.9.8",
-    "vue": "^3.0"
+    "vue": "^3.0",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.0-beta.6",
