@@ -5,7 +5,7 @@ import Driver from 'driver.js';
 export default {
     name: 'Tutorial',
 
-    inject: ['errorHandler', 'i18n', 'route'],
+    inject: ['errorHandler', 'http', 'i18n', 'route'],
 
     props: {
         labels: {
@@ -32,7 +32,7 @@ export default {
     methods: {
         ...mapMutations('layout/settings', { toggleSettingsBar: 'toggle' }),
         fetch() {
-            axios.get(this.route('system.tutorials.load'), {
+            this.http.get(this.route('system.tutorials.load'), {
                 params: { route: this.$route.name },
             }).then(({ data }) => this.start(data))
                 .catch(this.errorHandler);
@@ -59,7 +59,7 @@ export default {
     },
 
     render() {
-        return this.$scopedSlots.default({
+        return this.$slots.default({
             itemEvents: {
                 click: this.fetch,
             },
