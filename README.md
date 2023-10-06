@@ -1,10 +1,10 @@
 # Tutorials
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/tutorials.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/tutorials.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/tutorials.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/tutorials.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/tutorials.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/tutorials.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/tutorials.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/tutorials.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/tutorials.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/tutorials.svg) 
 
 ## Usage
 

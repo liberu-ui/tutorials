@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/tutorials.git"
+    "url": "git+https://github.com/liberu-ui/tutorials.git"
   },
   "keywords": [
     "tutorials",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/tutorials/issues"
+    "url": "https://github.com/liberu-ui/tutorials/issues"
   },
-  "homepage": "https://github.com/enso-ui/tutorials#readme",
+  "homepage": "https://github.com/liberu-ui/tutorials#readme",
   "dependencies": {
     "@liberu-ui/forms": "^3.0",
     "@liberu-ui/tables": "^3.0",
