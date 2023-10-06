@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/tutorials",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Basic tutorials package",
   "main": "src/bulma/pages/tutorials/Index.vue",
   "scripts": {
