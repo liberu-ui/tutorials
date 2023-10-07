@@ -1,6 +1,6 @@
 <script>
 import { mapMutations } from 'vuex';
-import Driver from 'driver.js';
+import Driver from 'driver.ts';
 
 export default {
     name: 'Tutorial',

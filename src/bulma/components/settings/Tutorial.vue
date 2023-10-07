@@ -40,5 +40,5 @@ export default {
 </script>
 
 <style lang="scss">
-    @import '~driver.js/dist/driver.min.css';
+    @import '~driver.ts/dist/driver.min.css';
 </style>

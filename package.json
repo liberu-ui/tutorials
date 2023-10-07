@@ -28,7 +28,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
-    "driver.js": "^0.9.8",
+    "driver.ts": "^0.9.8",
     "vue": "^3.0",
     "vuex": "^4.0.0"
   },
